@@ -1,0 +1,1 @@
+{"objectClass":"NSDictionary","root":{"objectClass":"MindNode","ID":"JG5Z0","rootPoint":{"objectClass":"CGPoint","x":360,"y":557},"lineColorHex":"#BBBBBB","text":"你不知道Js（上）"},"ID":"44R2V","style":100}
